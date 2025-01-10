@@ -21,4 +21,8 @@ Below is a list of contributors and the files they worked on:
   - Main Contributors: Kenneth Brian Tangkay  
 
 - **`tourist.html`**  
-  - Main Contributors: Allan De Jesus  
+  - Main Contributors: Allan De Jesus
+- **`style.css`**  
+  -Main Contributers: Vence Peter Doble , Benjie Sumile and Frances Mae Dela Pieza
+  
+
