@@ -3,6 +3,7 @@ This project involves the use of HTML and CSS languages to create a dynamic resp
 The work of student collaborators create a design describing the Municipality of Medellin
 
 # Project structure
+
 ├── index.html       # Main contributer : ELijah Glenn B Tugad and Christine Rosalejos
 ├── culture.html       # Main HTML file Main contributers: Jovannie Congson
 ├── history.html       # Main HTML file Main Contributer: Alexa Loon
